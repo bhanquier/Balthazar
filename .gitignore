@@ -1,0 +1,6 @@
+# Example .gitignore for Python projects
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore
+echo ".env" >> .gitignore
+echo "venv/" >> .gitignore
+echo ".DS_Store" >> .gitignore
