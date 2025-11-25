@@ -1,0 +1,7 @@
+streamlit
+llama-index
+llama-index-embeddings-huggingface
+llama-index-llms-ollama
+llama-index-vector-stores-milvus
+prometheus-client
+nest-asyncio
